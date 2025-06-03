@@ -17,5 +17,5 @@ To run the script daily at 2 AM, add the following to root's crontab:
 
 All output is saved in:
 
-* /usr/local/bin/daily_tasks.sh # The script
-* /var/log/daily_admin.log # Daily log
+* `/usr/local/bin/daily_tasks.sh` # The script
+* `/var/log/daily_admin.log` # Daily log
